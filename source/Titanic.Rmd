@@ -9,4 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-The present notebook
+In this notebook, I want to show the solution I crafted for the "Titanic Survival" Kaggle challenge using R. This challenge is a classsic for DS newbies and has been solved millions of times. There are plenty of resources out there to learn how to solve his halllenge and to get started with Kaggle. Therefore, I am not trying to present something original or nouvelle. In fact, one of my goals is to wrap up together what I have most liked from others' solution.
+
+
